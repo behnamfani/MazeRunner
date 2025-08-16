@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="pics/Logo.jpg" alt="Logo" width="150" height="200">
+</p>
+
 # MazeRunner
-![](pics/Logo.png)
 
 Creating a Maze Runner game using Unity
 
